@@ -1,6 +1,13 @@
 .formTitle {
   text-align: center;
 }
+h1{
+  font-family: "Playwrite CU", cursive;
+  font-optical-sizing: auto;
+  font-weight: 800px;
+  font-style: normal;
+  color: var(--primary-focus);
+}
 
 .logo {
   width: 200px;

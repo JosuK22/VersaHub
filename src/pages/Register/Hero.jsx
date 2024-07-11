@@ -11,7 +11,7 @@ export default function Hero() {
 
       <div className={styles.heroContent}>
         <Text step={9} weight="700">
-          Discover new things on Superapp
+          Discover new things on VersaHub
         </Text>
       </div>
     </div>

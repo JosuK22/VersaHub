@@ -25,7 +25,7 @@ const FormCheckbox = forwardRef(function FormCheckbox(props, ref) {
         />
         <label htmlFor="terms-conditions">
           <Text color={NEUTRAL_COLOR}>
-            Share my registration data with Superapp.
+            Share my registration data with VersaHub.
           </Text>
         </label>
       </div>

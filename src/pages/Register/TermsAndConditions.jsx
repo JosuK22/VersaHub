@@ -6,15 +6,15 @@ export default function TermsAndConditions() {
   return (
     <div className={styles.termsAndConditions}>
       <Text step={2} color={NEUTRAL_COLOR}>
-        By clicking on Sign up. you agree to Superapp{" "}
+        By clicking on Sign up. you agree to VersaHub{" "}
         <a href="#" style={{ color: PRIMARY_COLOR }}>
           Terms and Conditions of Use
         </a>
       </Text>
 
       <Text step={2} color={NEUTRAL_COLOR}>
-        To learn more about how Superapp collects, uses, shares and protects
-        your personal data please head Superapp{" "}
+        To learn more about how VersaHub collects, uses, shares and protects
+        your personal data please head VersaHub{" "}
         <a href="#" style={{ color: PRIMARY_COLOR }}>
           Privacy Policy
         </a>
